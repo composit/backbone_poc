@@ -1,0 +1,7 @@
+{
+  "name": "backbone-poc",
+  "description": "proof of concept for backbone-powered charts interface",
+  "devDependencies" : {
+    "karma":  "~0.10"
+  }
+}

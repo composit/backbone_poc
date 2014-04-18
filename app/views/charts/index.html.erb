@@ -1,0 +1,12 @@
+<h1>Charts!<h1>
+
+<div id='metrics'></div>
+
+<div id='charts'></div>
+
+<script type='text/javascript'>
+  $(function() {
+    window.router = new BackbonePoc.Routers.ChartsRouter({ charts: []});
+    Backbone.history.start();
+  });
+</script>
