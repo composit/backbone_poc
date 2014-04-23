@@ -17,5 +17,7 @@
 //= require backbone
 //= require backbone_rails_sync
 //= require backbone_datalink
+//= require d3.v2
+//= require handlebars
 //= require backbone/backbone_poc
 //= require_tree .
